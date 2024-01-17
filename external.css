@@ -1,0 +1,79 @@
+textarea {
+    width: 40%;
+    height: 12vh;
+    margin: 1.5rem;
+    margin-top: 23px;
+    padding: 1.5rem;
+    display: block;
+    margin-left: 421px;
+    border-color: rgb(254 230 68);
+    border-width: 3px;
+    border-radius: 10px;
+    font-size: 15px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  #output{
+    border: 3px solid rgba(86, 252, 3, 0.919);
+    border-radius:10px;
+    width: 41%;
+    height: 10vh;
+    margin: 1rem;
+    padding: 1rem;
+    margin-left: 421px;
+    margin-top: 2px;
+    font-family: cursive;
+  }
+  .main-head{
+    height: 8.7vh;
+    display: grid;
+    grid-template-columns: 10% 90%;
+    background-color: rgb(254 230 68);
+    padding: 2rem;
+    font-family:cursive;
+    font-weight: bolder;
+  }
+
+  img{
+    width: 80px;
+    height: 120px;
+    margin-top: -27px;
+    margin-right: 1100px;
+  }
+  h1{
+    margin-left: 450px;
+    margin-top: 0px;
+  }
+  #btn-translate{
+    padding:10px  20px 20px 20px;
+    height: 6vh;
+    font-size: 15px;
+    font-family: cursive;
+    background-color:rgb(254 230 68) ;
+    margin-left: 421px;
+    border: none;
+    border-radius: 5px;
+    margin-top: -10px;
+    box-shadow: 0 5px 16px 0 rgba(86, 252, 3, 0.919);
+  }
+  .output-Indicate{
+    margin-left: 421px;
+    margin-top: 30px;
+    font-size: larger;
+    font-family: cursive;
+  }
+  .footer{
+    background-color:rgb(254 230 68) ;
+    display: grid;
+    justify-content: center;
+    font-family: cursive;
+  }
+  h5{
+    margin-top: -4px;
+    text-align: center;
+    font-weight:lighter;
+  }
+  h2{
+    text-align: center;
+    text-decoration:underline;
+  }
+  
